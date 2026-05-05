@@ -1,5 +1,5 @@
-# docker build -t mosazhaw/node-web-app .
-# docker run -p 3001:3000 --name expressapp -d mosazhaw/node-web-app
+# docker build -t mdcgl96/node-web-app .
+# docker run -p 3001:3000 --name expressapp -d mdcgl96/node-web-app
 
 FROM node:24.11.1
 
