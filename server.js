@@ -13,9 +13,7 @@ app.get('/', (req, res) => {
     <html>
       <head><title>Test</title></head>
       <body>
-        <h1>Hello FS2026 DevOps Course!:D :D LOL</h1>
-        <p>Das wäre eine Anpassung</p>
-        <p>Noch mehr Anpassungen...</p>
+        <h1>Hello FS2026 DevOps Course auf Render!</h1>
       </body>
     </html>
   `);
