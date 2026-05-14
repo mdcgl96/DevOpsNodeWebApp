@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     <html>
       <head><title>Test</title></head>
       <body>
-        <h1>Hello FS2026 DevOps Course auf Github Actions und Azure mit Docker Geschmack</h1>
+        <h1>Hello FS2026 DevOps Course auf Github Burg</h1>
       </body>
     </html>
   `);
